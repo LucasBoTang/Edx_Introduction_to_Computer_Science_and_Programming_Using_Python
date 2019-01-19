@@ -2,4 +2,14 @@
 
 Coding exercises for Edx MITx: 6.00.1x Introduction to Computer Science and Programming Using Python.
 
-All code in this course uses Python3
+## List of Lecture Topics:
+
+### Lecture 1 – Introduction to Python:
+• Knowledge
+• Machines
+• Languages
+• Types
+• Variables
+• Operators and Branching
+
+### 
